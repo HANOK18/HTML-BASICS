@@ -127,10 +127,7 @@ For practice, I created a simple profile page using:
 </body>
 </html>
 ```
-## Live Demo
-
-[Click here to view the live website](https://your-link)
-
+ 
 
 
 
