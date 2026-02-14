@@ -127,6 +127,11 @@ For practice, I created a simple profile page using:
 </body>
 </html>
 ```
+## Output Preview
+
+![Output](image.png.png)
+
+
  
 
 
